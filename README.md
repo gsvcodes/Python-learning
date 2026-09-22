@@ -1,1 +1,1 @@
-# A compilation of codes that I am learning to build and use along the way. I am passionate about public health and medicine. Mainly want to use this was a fun project for myself since I've always wanted to learn how to code!
+# A compilation of codes that I am learning to build and use along the way. I am passionate about public health and medicine. Mainly want to use this as a fun project for myself since I've always wanted to learn how to code!
